@@ -4,7 +4,7 @@ import SimplePaper from "./Sales/paper";
 import Menu from "./Sales/menu";
 import Box from "@mui/material/Box";
 import Toolbar from "@mui/material/Toolbar";
-import { styled, ThemeProvider, createTheme } from '@mui/material/styles';
+import { styled } from '@mui/material/styles';
 
 const StyledBox = styled(Box)({
 
